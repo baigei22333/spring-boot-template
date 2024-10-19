@@ -1,0 +1,7 @@
+# 日志
+logging:
+  level:
+    root: info
+  file:
+    path: ./logs
+  config: classpath:logback-spring.xml
